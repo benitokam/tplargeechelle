@@ -3,8 +3,8 @@
 curl -o moby_dick.txt https://www.gutenberg.org/files/2701/2701-0.txt
 
 # Variables à personnaliser
-PROJECT_ID="sobike44"
-BUCKET_NAME="expmoby"
+PROJECT_ID="tplargedata"
+BUCKET_NAME="exptp"
 CLUSTER_NAME="wordcount-cluster"
 REGION="us-central1"  # Ou la région que vous préférez
 INPUT_FILE_PATH="moby_dick.txt"
